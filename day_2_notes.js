@@ -17,3 +17,13 @@
 // To view the commit: 
 // git log
 // Shows us commit hash, branch name, commit message, and other metadata
+
+// Go to Github.com and click Create Repository
+// Name of repository, make sure to leave it public, and keep all other options deselected 
+// Click create repository
+// Copy the HTTPS url provided (one that ends with .git)
+// Go back to VSCode
+// Link your local repository with remote repository by typing:
+// git remote add origin <paste the link>
+// To push to remote repository
+// git push origin master
