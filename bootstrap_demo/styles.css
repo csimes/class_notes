@@ -1,0 +1,16 @@
+body {
+    background-color: #b192bbe0;
+    background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
+
+}
+
+#mainTextContainer {
+    border: 2px solid white;
+    border-radius: 3px;
+    padding: 2%;
+}
+
+.cardImg {
+    height: 300px;
+    object-fit: cover;
+}
