@@ -75,7 +75,7 @@ Containers for values in JSON format (Javascript Object Notation).
 
 // define JS object with an object literal
 let car = {
-    // key : value pair (properties) that are comma separated
+// key : value pair (properties) that are comma separated
     make: "Porsche",
     model: "911",
     country: "Germany",
