@@ -28,7 +28,7 @@ Classes considered special functions and therefore can be defined as:
 // Class Declaration
 
 class Teacher {
-    // constructor - a class method for creation and intialization of a class object
+    // constructor - a class method for creation and initialization of a class object
     constructor(name, subject, tenure, isPolyglot) {
         this.name = name;
         this.subject = subject;
